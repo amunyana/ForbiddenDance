@@ -30,6 +30,7 @@ html {
   display: flex;
   justify-content: center;
   align-content: center;
+  flex-wrap: wrap;
 }
 
 .tagline {
@@ -165,3 +166,4 @@ h6{
 font-size: x-small;
 text-align:center;
 } 
+
